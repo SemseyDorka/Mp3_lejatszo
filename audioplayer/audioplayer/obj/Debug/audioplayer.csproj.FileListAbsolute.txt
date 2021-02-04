@@ -1,0 +1,15 @@
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\zenelejátszó\audioplayer\audioplayer\bin\Debug\audioplayer.exe.config
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\zenelejátszó\audioplayer\audioplayer\bin\Debug\audioplayer.exe
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\zenelejátszó\audioplayer\audioplayer\bin\Debug\audioplayer.pdb
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\zenelejátszó\audioplayer\audioplayer\obj\Debug\audioplayer.csprojAssemblyReference.cache
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\zenelejátszó\audioplayer\audioplayer\obj\Debug\MainWindow.g.cs
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\zenelejátszó\audioplayer\audioplayer\obj\Debug\App.g.cs
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\zenelejátszó\audioplayer\audioplayer\obj\Debug\audioplayer_MarkupCompile.cache
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\zenelejátszó\audioplayer\audioplayer\obj\Debug\audioplayer_MarkupCompile.lref
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\zenelejátszó\audioplayer\audioplayer\obj\Debug\MainWindow.baml
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\zenelejátszó\audioplayer\audioplayer\obj\Debug\audioplayer.g.resources
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\zenelejátszó\audioplayer\audioplayer\obj\Debug\audioplayer.Properties.Resources.resources
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\zenelejátszó\audioplayer\audioplayer\obj\Debug\audioplayer.csproj.GenerateResource.cache
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\zenelejátszó\audioplayer\audioplayer\obj\Debug\audioplayer.csproj.CoreCompileInputs.cache
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\zenelejátszó\audioplayer\audioplayer\obj\Debug\audioplayer.exe
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\zenelejátszó\audioplayer\audioplayer\obj\Debug\audioplayer.pdb
