@@ -67,8 +67,10 @@ namespace audioplayer
             timer.Interval = TimeSpan.FromSeconds(1);
             timer.Tick += timer_Tick;
             timer.Start();
+            volume.Value = volume.Maximum;
+
         }
-       
+
         void timer_Tick(object sender, EventArgs e)
         {
             
@@ -222,6 +224,7 @@ namespace audioplayer
         private void volume_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
             mediaPlayer.Volume = e.NewValue;
+
         }
 
         private void Prev_Click(object sender, RoutedEventArgs e)

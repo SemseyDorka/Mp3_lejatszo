@@ -24,7 +24,7 @@
         </Expander>
         <Button Content="Open playlist" HorizontalAlignment="Left" Height="22" Margin="196,56,0,0" VerticalAlignment="Top" Width="107" Click="Button_Click_2" RenderTransformOrigin="0.438,0.364"/>
         <Button Content="Save playlist" HorizontalAlignment="Left" Height="22" Margin="27,56,0,0" VerticalAlignment="Top" Width="106" Click="Button_Click_1"/>
-        <Slider x:Name="volume" HorizontalAlignment="Left" Height="22" Margin="273,63,0,0" VerticalAlignment="Top" Width="122" RenderTransformOrigin="0.497,-1.091" ValueChanged="volume_ValueChanged" Background="#00853C3C" Foreground="#FF593C3C" BorderBrush="#FFC36969">
+        <Slider x:Name="volume" HorizontalAlignment="Left" Height="22" Margin="271,63,0,0" VerticalAlignment="Top" Width="106" RenderTransformOrigin="0.497,-1.091" ValueChanged="volume_ValueChanged" Background="#00853C3C" Foreground="#FF593C3C" BorderBrush="#FFC36969">
             <Slider.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -34,7 +34,7 @@
                 </TransformGroup>
             </Slider.RenderTransform>
         </Slider>
-        <Label Content="Voulume:" HorizontalAlignment="Left" Height="34" Margin="172,93,0,0" VerticalAlignment="Top" Width="62"/>
+        <Label Content="Volume:" HorizontalAlignment="Left" Height="34" Margin="158,93,0,0" VerticalAlignment="Top" Width="57"/>
 
 
     </Grid>
