@@ -13,7 +13,8 @@
         <Button x:Name="Play" Content="🞂" HorizontalAlignment="Left" Height="22" Margin="128,483,0,0" VerticalAlignment="Top" Width="64" Click="Play_Click" RenderTransformOrigin="0.511,1.955"/>
         <Button x:Name="Pause" Content="||" HorizontalAlignment="Left" Height="22" Margin="317,483,0,0" VerticalAlignment="Top" Width="66" Click="Pause_Click"/>
         <Button x:Name="Stop" Content="▉" HorizontalAlignment="Left" Height="22" Margin="216,483,0,0" VerticalAlignment="Top" Width="71" Click="Stop_Click"/>
-        <Button x:Name="file" Content="Open audio files" HorizontalAlignment="Left" Height="22" Margin="360,56,0,0" VerticalAlignment="Top" Width="107" Click="file_Click" RenderTransformOrigin="-0.272,1.773"/>
+        <Button x:Name="file" Content="Open audio files"
+                HorizontalAlignment="Left" Height="22" Margin="360,56,0,0" VerticalAlignment="Top" Width="107" Click="file_Click" RenderTransformOrigin="-0.272,1.773"/>
         <Label x:Name="Status" Content="0:00/0:00" HorizontalAlignment="Left" Height="26" Margin="18,438,0,0" VerticalAlignment="Top" Width="72" RenderTransformOrigin="0.272,0.462"/>
         <Slider x:Name="Slider" HorizontalAlignment="Left" Height="26" Margin="88,438,0,0" VerticalAlignment="Top" Width="339"  Thumb.DragStarted="Slider_DragStarted"  Thumb.DragCompleted="Slider_DragCompleted" />
         <ListBox x:Name="listbox" HorizontalAlignment="Left" Height="301" Margin="88,132,0,0" VerticalAlignment="Top" Width="339" MouseDoubleClick="listbox_MouseDoubleClick"/>
